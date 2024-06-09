@@ -1,0 +1,1 @@
+to make an anmation for this program, use colorpixel <r> <g> <b> to make a pixel on the terminal. each frame will have to be a seperate file. for an example, go to my other repository called basic animation.
